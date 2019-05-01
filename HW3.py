@@ -15,7 +15,6 @@ def insertionSort(): #you may change arguments
     pass
 
 def isIthGamesEqual(): #you may change arguments
-    #get a list and return max
     #your code#
     pass
 
