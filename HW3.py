@@ -3,23 +3,18 @@ def average(): #you may change arguments
     #your code#
     pass
 
-def mySort(): #you may change arguments
-    #implement insertion sort for a given list
-    # https://en.wikipedia.org/wiki/Insertion_sort
-    #your code#
-    pass
-
 def standardDeviation(): #you may change arguments
     #get a list of numbers and calculate st 
     #your code#
     pass
 
-def kLargest(): #you may change arguments
-    #get a list and return k-th largest element
+def insertionSort(): #you may change arguments
+    #implement insertion sort for a given list
+    # https://en.wikipedia.org/wiki/Insertion_sort
     #your code#
     pass
 
-def myMax(): #you may change arguments
+def isIthGamesEqual(): #you may change arguments
     #get a list and return max
     #your code#
     pass
